@@ -1,0 +1,17 @@
+.button__add {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  background: #333333;
+  cursor: pointer;
+
+  svg {
+    stroke: #ffffff;
+  }
+}
